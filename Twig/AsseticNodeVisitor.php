@@ -9,10 +9,10 @@
  * with this source code in the file LICENSE.
  */
 
-namespace Symfony\Bundle\AsseticBundle\Twig;
+namespace TS\Bundle\AsseticBundle\Twig;
 
 use Assetic\Extension\Twig\AsseticFilterFunction;
-use Symfony\Bundle\AsseticBundle\Exception\InvalidBundleException;
+use TS\Bundle\AsseticBundle\Exception\InvalidBundleException;
 use Symfony\Bundle\FrameworkBundle\Templating\TemplateReference;
 use Symfony\Component\Templating\TemplateNameParserInterface;
 
