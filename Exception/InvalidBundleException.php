@@ -9,7 +9,7 @@
  * with this source code in the file LICENSE.
  */
 
-namespace Symfony\Bundle\AsseticBundle\Exception;
+namespace TS\Bundle\AsseticBundle\Exception;
 
 class InvalidBundleException extends \LogicException
 {
