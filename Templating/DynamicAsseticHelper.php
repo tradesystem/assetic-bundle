@@ -9,7 +9,7 @@
  * with this source code in the file LICENSE.
  */
 
-namespace Symfony\Bundle\AsseticBundle\Templating;
+namespace TS\Bundle\AsseticBundle\Templating;
 
 use Assetic\Asset\AssetInterface;
 use Assetic\Factory\AssetFactory;
