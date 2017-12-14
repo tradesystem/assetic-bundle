@@ -9,9 +9,9 @@
  * with this source code in the file LICENSE.
  */
 
-namespace Symfony\Bundle\AsseticBundle\Tests\CacheWarmer;
+namespace TS\Bundle\AsseticBundle\Tests\CacheWarmer;
 
-use Symfony\Bundle\AsseticBundle\CacheWarmer\AssetManagerCacheWarmer;
+use TS\Bundle\AsseticBundle\CacheWarmer\AssetManagerCacheWarmer;
 
 class AssetManagerCacheWarmerTest extends \PHPUnit_Framework_TestCase
 {
