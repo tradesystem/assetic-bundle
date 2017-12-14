@@ -9,9 +9,9 @@
  * with this source code in the file LICENSE.
  */
 
-namespace Symfony\Bundle\AsseticBundle;
+namespace TS\Bundle\AsseticBundle;
 
-use Symfony\Bundle\AsseticBundle\DependencyInjection\Compiler;
+use TS\Bundle\AsseticBundle\DependencyInjection\Compiler;
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
