@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Symfony\Bundle\AsseticBundle\DependencyInjection;
+namespace TS\Bundle\AsseticBundle\DependencyInjection;
 
 use Symfony\Component\DependencyInjection\Definition;
 use Symfony\Component\DependencyInjection\Reference;
