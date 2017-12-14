@@ -9,9 +9,9 @@
  * with this source code in the file LICENSE.
  */
 
-namespace Symfony\Bundle\AsseticBundle\Tests\Command;
+namespace TS\Bundle\AsseticBundle\Tests\Command;
 
-use Symfony\Bundle\AsseticBundle\Command\DumpCommand;
+use TS\Bundle\AsseticBundle\Command\DumpCommand;
 use Symfony\Component\Console\Input\ArrayInput;
 use Symfony\Component\Console\Input\InputOption;
 use Symfony\Component\Console\Output\NullOutput;
