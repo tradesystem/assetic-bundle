@@ -9,9 +9,9 @@
  * with this source code in the file LICENSE.
  */
 
-namespace Symfony\Bundle\AsseticBundle\Tests\Factory;
+namespace TS\Bundle\AsseticBundle\Tests\Factory;
 
-use Symfony\Bundle\AsseticBundle\Factory\AssetFactory;
+use TS\Bundle\AsseticBundle\Factory\AssetFactory;
 
 class AssetFactoryTest extends \PHPUnit_Framework_TestCase
 {
