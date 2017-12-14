@@ -9,7 +9,7 @@
  * with this source code in the file LICENSE.
  */
 
-namespace Symfony\Bundle\AsseticBundle\Command;
+namespace TS\Bundle\AsseticBundle\Command;
 
 use Spork\Batch\Strategy\ChunkStrategy;
 use Spork\EventDispatcher\WrappedEventDispatcher;
