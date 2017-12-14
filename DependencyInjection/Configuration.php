@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Symfony\Bundle\AsseticBundle\DependencyInjection;
+namespace TS\Bundle\AsseticBundle\DependencyInjection;
 
 use Symfony\Component\Process\ExecutableFinder;
 use Symfony\Component\Config\Definition\Builder\ArrayNodeDefinition;
