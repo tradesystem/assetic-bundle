@@ -1,6 +1,6 @@
 {
     "name": "tradesystem/assetic-bundle",
-    "description": "Integrates Assetic into Symfony2",
+    "description": "Integrates Assetic into Symfony4",
     "keywords": ["assets", "compression", "minification"],
     "homepage": "https://github.com/tradesystem/AsseticBundle",
     "type": "symfony-bundle",
