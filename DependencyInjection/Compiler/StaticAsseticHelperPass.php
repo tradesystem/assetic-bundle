@@ -1,6 +1,6 @@
 <?php
 
-namespace Symfony\Bundle\AsseticBundle\DependencyInjection\Compiler;
+namespace TS\Bundle\AsseticBundle\DependencyInjection\Compiler;
 
 use Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface;
 use Symfony\Component\DependencyInjection\ContainerBuilder;
