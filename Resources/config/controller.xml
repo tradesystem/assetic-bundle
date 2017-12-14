@@ -5,11 +5,11 @@
     xsi:schemaLocation="http://symfony.com/schema/dic/services http://symfony.com/schema/dic/services/services-1.0.xsd">
 
     <parameters>
-        <parameter key="assetic.controller.class">Symfony\Bundle\AsseticBundle\Controller\AsseticController</parameter>
-        <parameter key="assetic.routing_loader.class">Symfony\Bundle\AsseticBundle\Routing\AsseticLoader</parameter>
+        <parameter key="assetic.controller.class">TS\Bundle\AsseticBundle\Controller\AsseticController</parameter>
+        <parameter key="assetic.routing_loader.class">TS\Bundle\AsseticBundle\Routing\AsseticLoader</parameter>
         <parameter key="assetic.cache.class">Assetic\Cache\FilesystemCache</parameter>
-        <parameter key="assetic.use_controller_worker.class">Symfony\Bundle\AsseticBundle\Factory\Worker\UseControllerWorker</parameter>
-        <parameter key="assetic.request_listener.class">Symfony\Bundle\AsseticBundle\EventListener\RequestListener</parameter>
+        <parameter key="assetic.use_controller_worker.class">TS\Bundle\AsseticBundle\Factory\Worker\UseControllerWorker</parameter>
+        <parameter key="assetic.request_listener.class">TS\Bundle\AsseticBundle\EventListener\RequestListener</parameter>
     </parameters>
 
     <services>
