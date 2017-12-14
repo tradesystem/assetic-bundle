@@ -9,7 +9,7 @@
  * with this source code in the file LICENSE.
  */
 
-namespace Symfony\Bundle\AsseticBundle\DependencyInjection;
+namespace TS\Bundle\AsseticBundle\DependencyInjection;
 
 use Symfony\Component\Config\Definition\Processor;
 use Symfony\Component\Config\FileLocator;
