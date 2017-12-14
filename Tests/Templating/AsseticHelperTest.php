@@ -9,11 +9,11 @@
  * with this source code in the file LICENSE.
  */
 
-namespace Symfony\Bundle\AsseticBundle\Tests\Templating;
+namespace TS\Bundle\AsseticBundle\Tests\Templating;
 
 use Assetic\Asset\AssetInterface;
 use Assetic\Factory\AssetFactory;
-use Symfony\Bundle\AsseticBundle\Templating\AsseticHelper;
+use TS\Bundle\AsseticBundle\Templating\AsseticHelper;
 
 class AsseticHelperTest extends \PHPUnit_Framework_TestCase
 {
