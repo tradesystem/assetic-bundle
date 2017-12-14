@@ -9,7 +9,7 @@
  * with this source code in the file LICENSE.
  */
 
-namespace Symfony\Bundle\AsseticBundle\Controller;
+namespace TS\Bundle\AsseticBundle\Controller;
 
 use Assetic\Asset\AssetCache;
 use Assetic\Asset\AssetInterface;
