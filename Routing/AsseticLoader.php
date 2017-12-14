@@ -9,12 +9,12 @@
  * with this source code in the file LICENSE.
  */
 
-namespace Symfony\Bundle\AsseticBundle\Routing;
+namespace TS\Bundle\AsseticBundle\Routing;
 
 use Assetic\Asset\AssetInterface;
 use Assetic\Factory\LazyAssetManager;
-use Symfony\Bundle\AsseticBundle\Config\AsseticResource;
-use Symfony\Bundle\AsseticBundle\Config\SelfCheckingAsseticResource;
+use TS\Bundle\AsseticBundle\Config\AsseticResource;
+use TS\Bundle\AsseticBundle\Config\SelfCheckingAsseticResource;
 use Symfony\Component\Config\Loader\Loader;
 use Symfony\Component\Routing\Route;
 use Symfony\Component\Routing\RouteCollection;
