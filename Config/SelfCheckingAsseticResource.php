@@ -9,7 +9,7 @@
  * with this source code in the file LICENSE.
  */
 
-namespace Symfony\Bundle\AsseticBundle\Config;
+namespace TS\Bundle\AsseticBundle\Config;
 
 use Symfony\Component\Config\Resource\SelfCheckingResourceInterface;
 
