@@ -9,9 +9,9 @@
  * with this source code in the file LICENSE.
  */
 
-namespace Symfony\Bundle\AsseticBundle\Tests;
+namespace TS\Bundle\AsseticBundle\Tests;
 
-use Symfony\Bundle\AsseticBundle\FilterManager;
+use TS\Bundle\AsseticBundle\FilterManager;
 
 class FilterManagerTest extends \PHPUnit_Framework_TestCase
 {
