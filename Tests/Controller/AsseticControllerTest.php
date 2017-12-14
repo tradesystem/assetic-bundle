@@ -9,9 +9,9 @@
  * with this source code in the file LICENSE.
  */
 
-namespace Symfony\Bundle\AsseticBundle\Tests\Controller;
+namespace TS\Bundle\AsseticBundle\Tests\Controller;
 
-use Symfony\Bundle\AsseticBundle\Controller\AsseticController;
+use TS\Bundle\AsseticBundle\Controller\AsseticController;
 
 class AsseticControllerTest extends \PHPUnit_Framework_TestCase
 {
