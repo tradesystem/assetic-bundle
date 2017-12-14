@@ -9,7 +9,7 @@
  * with this source code in the file LICENSE.
  */
 
-namespace Symfony\Bundle\AsseticBundle\Factory\Worker;
+namespace TS\Bundle\AsseticBundle\Factory\Worker;
 
 use Assetic\Asset\AssetInterface;
 use Assetic\Factory\Worker\WorkerInterface;
