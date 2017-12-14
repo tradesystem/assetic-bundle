@@ -9,7 +9,7 @@
  * with this source code in the file LICENSE.
  */
 
-namespace Symfony\Bundle\AsseticBundle;
+namespace TS\Bundle\AsseticBundle;
 
 use Assetic\ValueSupplierInterface;
 use Symfony\Component\DependencyInjection\ContainerInterface;
