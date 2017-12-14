@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Symfony\Bundle\AsseticBundle\Controller;
+namespace TS\Bundle\AsseticBundle\Controller;
 
 use Assetic\Asset\AssetInterface;
 use Assetic\Filter\FilterInterface;
