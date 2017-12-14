@@ -9,7 +9,7 @@
  * with this source code in the file LICENSE.
  */
 
-namespace Symfony\Bundle\AsseticBundle\Tests\TestBundle;
+namespace TS\Bundle\AsseticBundle\Tests\TestBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
