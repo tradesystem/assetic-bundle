@@ -9,7 +9,7 @@
  * with this source code in the file LICENSE.
  */
 
-namespace Symfony\Bundle\AsseticBundle\Factory\Loader;
+namespace TS\Bundle\AsseticBundle\Factory\Loader;
 
 use Assetic\Factory\Loader\BasePhpFormulaLoader;
 
