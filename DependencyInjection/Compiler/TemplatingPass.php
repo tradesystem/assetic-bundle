@@ -9,7 +9,7 @@
  * with this source code in the file LICENSE.
  */
 
-namespace Symfony\Bundle\AsseticBundle\DependencyInjection\Compiler;
+namespace TS\Bundle\AsseticBundle\DependencyInjection\Compiler;
 
 use Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface;
 use Symfony\Component\DependencyInjection\ContainerBuilder;
