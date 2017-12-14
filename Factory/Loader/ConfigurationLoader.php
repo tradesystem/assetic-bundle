@@ -9,11 +9,11 @@
  * with this source code in the file LICENSE.
  */
 
-namespace Symfony\Bundle\AsseticBundle\Factory\Loader;
+namespace TS\Bundle\AsseticBundle\Factory\Loader;
 
 use Assetic\Factory\Loader\FormulaLoaderInterface;
 use Assetic\Factory\Resource\ResourceInterface;
-use Symfony\Bundle\AsseticBundle\Factory\Resource\ConfigurationResource;
+use TS\Bundle\AsseticBundle\Factory\Resource\ConfigurationResource;
 
 /**
  * Loads configured formulae.
