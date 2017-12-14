@@ -9,7 +9,7 @@
  * with this source code in the file LICENSE.
  */
 
-namespace Symfony\Bundle\AsseticBundle\Factory;
+namespace TS\Bundle\AsseticBundle\Factory;
 
 use Assetic\Factory\AssetFactory as BaseAssetFactory;
 use Symfony\Component\DependencyInjection\ContainerInterface;
