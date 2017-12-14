@@ -9,7 +9,7 @@
  * with this source code in the file LICENSE.
  */
 
-namespace Symfony\Bundle\AsseticBundle\Twig;
+namespace TS\Bundle\AsseticBundle\Twig;
 
 use Assetic\Asset\AssetInterface;
 use Assetic\Extension\Twig\AsseticNode as BaseAsseticNode;
