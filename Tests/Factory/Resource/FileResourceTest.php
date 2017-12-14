@@ -9,9 +9,9 @@
  * with this source code in the file LICENSE.
  */
 
-namespace Symfony\Bundle\AsseticBundle\Tests\Factory\Resource;
+namespace TS\Bundle\AsseticBundle\Tests\Factory\Resource;
 
-use Symfony\Bundle\AsseticBundle\Factory\Resource\FileResource;
+use TS\Bundle\AsseticBundle\Factory\Resource\FileResource;
 
 class FileResourceTest extends \PHPUnit_Framework_TestCase
 {
