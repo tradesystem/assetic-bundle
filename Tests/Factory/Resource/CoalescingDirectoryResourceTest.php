@@ -9,9 +9,9 @@
  * with this source code in the file LICENSE.
  */
 
-namespace Symfony\Bundle\AsseticBundle\Tests\Factory\Resource;
+namespace TS\Bundle\AsseticBundle\Tests\Factory\Resource;
 
-use Symfony\Bundle\AsseticBundle\Factory\Resource\CoalescingDirectoryResource;
+use TS\Bundle\AsseticBundle\Factory\Resource\CoalescingDirectoryResource;
 
 class CoalescingDirectoryResourceTest extends \PHPUnit_Framework_TestCase
 {
